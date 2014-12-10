@@ -1,0 +1,8 @@
+# no temporary files ending with ~
+*~
+# ignore all files in the following directories
+scenario_geogig/
+scenario_git/
+
+
+
